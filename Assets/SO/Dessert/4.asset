@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae35199d22e934297809fba6dac2fd13, type: 3}
+  m_Name: 4
+  m_EditorClassIdentifier: 
+  Title: Honey Yogurt with Nuts
+  Icon: {fileID: 21300000, guid: 6a9791cffe302409d842c9e001470d18, type: 3}
+  Instructions: 'Spoon yogurt into cups or bowls.
+
+    Drizzle with honey.
+
+    Top
+    with nuts and dried fruit.
+
+    Serve chilled if possible.'
+  Ingredients:
+  - 2 cups plain yogurt
+  - 2 tbsp honey
+  - Handful of nuts
+  - 'Optional: dried fruit'

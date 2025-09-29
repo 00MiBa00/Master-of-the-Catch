@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae35199d22e934297809fba6dac2fd13, type: 3}
+  m_Name: 1
+  m_EditorClassIdentifier: 
+  Title: Oatmeal with Nuts & Dried Fruit
+  Icon: {fileID: 21300000, guid: 3be4772e2c3334e5d99a6dbf7f0a5df1, type: 3}
+  Instructions: 'Boil water or milk.
+
+    Add oats, cook until thick.
+
+    Stir in
+    dried fruit, nuts, and honey.
+
+    Serve warm for an energy boost.'
+  Ingredients:
+  - 1 cup rolled oats
+  - 2 cups water or milk
+  - Handful of dried fruit
+  - Handful of nuts
+  - Honey or sugar

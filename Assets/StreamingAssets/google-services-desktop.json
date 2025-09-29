@@ -1,0 +1,31 @@
+{
+  "project_info": {
+    "project_number": "397504313664",
+    "project_id": "forest-feast",
+    "storage_bucket": "forest-feast.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397504313664:ios:de5bea280a8079d186e2a5",
+        "android_client_info": {
+          "package_name": "com.zelqoplm.mbnxgame"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_KRJciK69KM52jJsKUOMRlkPLzfGcdF4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

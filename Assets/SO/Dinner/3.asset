@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae35199d22e934297809fba6dac2fd13, type: 3}
+  m_Name: 3
+  m_EditorClassIdentifier: 
+  Title: Campfire Quesadillas
+  Icon: {fileID: 21300000, guid: 9e63835e14f654f3e92b132728d78a71, type: 3}
+  Instructions: 'Dice tomato and onion, mix with cheese.
+
+    Fill half of each tortilla
+    with mixture, fold in half.
+
+    Cook on skillet or grill until cheese melts.
+
+    Serve
+    hot, cut into slices.'
+  Ingredients:
+  - 4 tortillas
+  - 200 g grated cheese
+  - 1 tomato
+  - 1 small onion
+  - Oil for frying

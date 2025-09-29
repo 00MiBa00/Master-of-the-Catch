@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae35199d22e934297809fba6dac2fd13, type: 3}
+  m_Name: 1
+  m_EditorClassIdentifier: 
+  Title: Rice with Vegetables and Tuna
+  Icon: {fileID: 21300000, guid: cbb076f4dfaba46f79ff793adb0d77c1, type: 3}
+  Instructions: "Cook rice in boiling water until done.\nDice vegetables, saut\xE9
+    until soft.\nMix rice, vegetables, and tuna in one pan.\nSeason with soy sauce
+    or salt, serve hot."
+  Ingredients:
+  - 1 cup rice
+  - 1 can tuna
+  - 1 bell pepper
+  - 1 carrot
+  - Soy sauce or salt

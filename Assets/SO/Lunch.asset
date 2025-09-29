@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a277456047425461c8b62ba1a7ce7cf1, type: 3}
+  m_Name: Lunch
+  m_EditorClassIdentifier: 
+  Category: 1
+  Recipes:
+  - {fileID: 11400000, guid: cb7b960139c844e48b74cb710e0e155a, type: 2}
+  - {fileID: 11400000, guid: 83d8e6574a4084be99cae13228a6ff63, type: 2}
+  - {fileID: 11400000, guid: 751d97edf8b7540348a48eca764493ba, type: 2}
+  - {fileID: 11400000, guid: 0854ac93abd2c4e0292d5b7811e8db5b, type: 2}
+  - {fileID: 11400000, guid: 06f14bf33b8b84246a1ecafb503cced4, type: 2}
+  Description: Lunch by the campfire
+  BgSprite: {fileID: 21300000, guid: cdaebe50335054ce1844b02370c8bc8c, type: 3}

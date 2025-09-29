@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae35199d22e934297809fba6dac2fd13, type: 3}
+  m_Name: 3
+  m_EditorClassIdentifier: 
+  Title: Fried Potatoes with Sausages
+  Icon: {fileID: 21300000, guid: 0047e409dc8044d61a8823fea7248df7, type: 3}
+  Instructions: 'Slice potatoes into thin strips.
+
+    Cut sausages and onion into
+    pieces.
+
+    Heat oil in pan, fry potatoes until golden.
+
+    Add sausages and
+    onion, cook until done.
+
+    Season with salt and pepper, serve hot.'
+  Ingredients:
+  - 4 potatoes
+  - 2 sausages
+  - 1 onion
+  - Oil for frying
+  - Salt, pepper

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae35199d22e934297809fba6dac2fd13, type: 3}
+  m_Name: 0
+  m_EditorClassIdentifier: 
+  Title: Grilled Steak with Potatoes
+  Icon: {fileID: 21300000, guid: 5ac9a7729ceb044eaa9e6cb15fa64e3e, type: 3}
+  Instructions: "Season steaks with salt, pepper, and garlic powder.\nWrap potatoes
+    in foil and cook on coals until soft.\nGrill steaks over hot coals 3\u20134 minutes
+    per side.\nServe steaks with hot potatoes."
+  Ingredients:
+  - 2 beef steaks
+  - 4 potatoes
+  - Oil for brushing
+  - Salt, pepper, garlic powder
