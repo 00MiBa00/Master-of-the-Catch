@@ -1784,9 +1784,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   forcedScreenOrientation: 1
-  endpoint: https://forestfeaast.com
-  appsflyerDevID: cony2WD84nrzaD9G5aopKc
-  IOS_ID: 6752020246
+  endpoint: https://masterofthecatch.com
+  appsflyerDevID: V3AL7iLg3TUvhBXe9eaU9V
+  IOS_ID: 6753212028
   _sleepObjects:
   - {fileID: 1581472503}
   loadingScreen: {fileID: 2620323195764824328}

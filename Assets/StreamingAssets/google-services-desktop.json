@@ -1,20 +1,20 @@
 {
   "project_info": {
-    "project_number": "397504313664",
-    "project_id": "forest-feast",
-    "storage_bucket": "forest-feast.firebasestorage.app"
+    "project_number": "882145929379",
+    "project_id": "master-of-the-catch",
+    "storage_bucket": "master-of-the-catch.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:397504313664:ios:de5bea280a8079d186e2a5",
+        "mobilesdk_app_id": "1:882145929379:ios:b87b1614883a224b957716",
         "android_client_info": {
-          "package_name": "com.zelqoplm.mbnxgame"
+          "package_name": "com.draxil.lemorgame"
         }
       },
       "api_key": [
         {
-          "current_key": "AIzaSyC_KRJciK69KM52jJsKUOMRlkPLzfGcdF4"
+          "current_key": "AIzaSyB7M9PMMbvHU7qjWu6f_Y5YdQG6UMarMZA"
         }
       ],
       "services": {
